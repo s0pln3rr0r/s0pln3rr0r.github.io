@@ -2,6 +2,7 @@
 title: TheStickyNote
 author: s0pln3rr0r
 date: 2023-07-31 20:55:00 +0530
+pin: true
 categories: [Writeups, Machines]
 tags: [writeup]
 ---
